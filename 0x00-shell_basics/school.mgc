@@ -1,2 +1,2 @@
 #!/bin/bash
-file -m -c -name "SCHOOL" 
+file * -m -c "SCHOOL" 
