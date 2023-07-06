@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type f -name "SCHOOL" 
+file -m -name "SCHOOL" 
