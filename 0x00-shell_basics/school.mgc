@@ -1,2 +1,2 @@
 #!/bin/bash
-ls find -name "*SCHOOL" 
+find -type f -name "SCHOOL" 
