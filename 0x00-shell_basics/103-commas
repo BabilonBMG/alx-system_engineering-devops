@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -npaR  
+ls -n -p -a -R   
